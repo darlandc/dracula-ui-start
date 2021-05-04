@@ -5,13 +5,9 @@ body {
   background: #1E272C;
   display: flex;
   flex-direction: column;
-  * {
-    border: 1px solid transparent;
-    flex: 1;
-    .text {
+    .drac-box {
+      margin-top: 1rem;
       position: relative;
-      left: 1rem;
-    }
   }
 }
 
